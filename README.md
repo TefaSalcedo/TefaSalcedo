@@ -24,7 +24,7 @@ I'm from Colombia and I'm a Junior Front end Developer.
 - 🎯 Basic proficiency in Jira for efficient project management.
 
 ## Language Skills 🌍
-- 🌟🌟🌟🌟🌟 Spanish (native) 
-- 🌟🌟🌟🌟 English (Approximately B2) 
-- 🌟 Basic proficiency in Portuguese and French
+🌟🌟🌟🌟🌟 Spanish (native) 
+🌟🌟🌟🌟 English (Approximately B2) 
+🌟 Basic proficiency in Portuguese and French
 
