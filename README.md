@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Estefania <img src="https://usagif.com/wp-content/uploads/gifs/dancing-cat-26.gif.webp" width="30">
+# Hello there! 👋 I'm Estefania <img src="https://usagif.com/wp-content/uploads/gifs/dancing-cat-26.gif.webp" width="50">
 
 I'm from Colombia and I'm a Junior Front end Developer.
 
@@ -9,9 +9,9 @@ I'm from Colombia and I'm a Junior Front end Developer.
 - 🐍 Basic knowledge of Python for versatile problem-solving.
 
 ## Connect with Me
-- 🌐 [LinkedIn]([URL_DE_TU_PERFIL_DE_LINKEDIN](https://www.linkedin.com/in/estefaniasalcedocamacho/)) 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/estefaniasalcedocamacho/) 
 - 📧 [Gmail](mailto:stefa.dtbu@gmail.com)
-- 📝 [Blog](URL_DE_TU_BLOG)
+- 📝 [Blog]
 
 ## My Skills
 - 👩‍💻 HTML ![95%](https://progress-bar.dev/95)
