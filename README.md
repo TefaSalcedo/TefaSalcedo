@@ -19,11 +19,12 @@ I'm from Colombia and I'm a Junior Front end Developer.
 - 🚀 JavaScript ![50%](https://progress-bar.dev/50)
 - ⚛️ React ![10%](https://progress-bar.dev/10)
 - 🐍 Python (Basic)
+- 🔄 Scrum (Basic)
 - 🤝 Proven experience in leadership roles.
 - 🎯 Basic proficiency in Jira for efficient project management.
 
 ## Language Skills 🌍
-- **Spanish:** Native proficiency 🎉
-- **English:** Proficient with a B2 level, allowing effective communication 🌐
-- **Portuguese and French:** Basic knowledge for cross-cultural understanding 🌱
+- 🌟🌟🌟🌟🌟 Spanish (native) 
+- 🌟🌟🌟🌟 English (Approximately B2) 
+- 🌟 Basic proficiency in Portuguese and French
 
