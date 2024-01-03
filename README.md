@@ -26,5 +26,5 @@ I'm from Colombia and I'm a Junior Front end Developer.
 ## Language Skills 🌍
 - 🌟🌟🌟🌟🌟 Spanish (native) 
 - 🌟🌟🌟🌟 English (Approximately B2) 
-- 🌟🌟🌟 Basic proficiency in Portuguese and French
+- 🌟 Basic proficiency in Portuguese and French
 
