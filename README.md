@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Estefania, I'm from Colombia and  I'm a jr.
+My name is Estefania, I'm from Colombia and  I'm a jr and student Front end Developer.
 <!--
 **TefaSalcedo/TefaSalcedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
