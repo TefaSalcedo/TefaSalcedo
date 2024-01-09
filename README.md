@@ -11,7 +11,7 @@ I'm from Colombia and I'm a Junior Front end Developer.
 ## Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/estefaniasalcedocamacho/) 
 - 📧 [Gmail](mailto:stefa.dtbu@gmail.com)
-- 📝 [Blog]
+- 📝 [Blog]([https://www.notion.so/becomethatcodegirl/e0d3802592444bebbf1d455678232b40?v=967a65e5aa25484a82533e93e59811ad](https://becomethatcodegirl.notion.site/e0d3802592444bebbf1d455678232b40?v=967a65e5aa25484a82533e93e59811ad&pvs=74))
 
 ## My Skills
 - 👩‍💻 HTML ![95%](https://progress-bar.dev/95)
