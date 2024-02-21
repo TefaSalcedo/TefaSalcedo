@@ -15,9 +15,9 @@ I'm from Colombia and I'm a Junior Front end Developer.
 
 ## My Skills
 - 👩‍💻 HTML ![95%](https://progress-bar.dev/95)
-- 🎨 CSS ![70%](https://progress-bar.dev/70)
-- 🚀 JavaScript ![50%](https://progress-bar.dev/50)
-- ⚛️ React ![10%](https://progress-bar.dev/10)
+- 🎨 CSS ![70%](https://progress-bar.dev/90)
+- 🚀 JavaScript ![50%](https://progress-bar.dev/70)
+- ⚛️ React ![10%](https://progress-bar.dev/40)
 - 🐍 Python (Basic)
 - 🔄 Scrum (Basic)
 - 🤝 Proven experience in leadership roles.
