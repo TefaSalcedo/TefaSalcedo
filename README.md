@@ -28,9 +28,3 @@ I'm from Colombia and I'm a Junior Front end Developer.
 - 🌟🌟🌟🌟 English (Approximately B2) 
 - 🌟 Basic proficiency in Portuguese and French
 
-
-![HTML](https://img.shields.io/badge/HTML-95%-e34f26.svg)
-![CSS](https://img.shields.io/badge/CSS-70%-f0c557.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-50%-f0da44.svg)
-![React](https://img.shields.io/badge/React-10%-61dafb.svg)
-
