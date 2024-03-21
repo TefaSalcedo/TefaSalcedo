@@ -17,8 +17,8 @@ I'm from Colombia and I'm a Junior Front end Developer.
 - 👩‍💻 HTML ![95%](https://progress-bar.dev/95)
 - 🎨 CSS ![70%](https://progress-bar.dev/95)
 - 🚀 JavaScript ![50%](https://progress-bar.dev/80)
-- 🔄 GIT ![70%](https://progress-bar.dev/75)
-- ⚛️ React ![50%](https://progress-bar.dev/50)
+- 🔄 GIT ![85%](https://progress-bar.dev/85)
+- ⚛️ React ![70%](https://progress-bar.dev/70)
 - 🐍 Python (Basic)
 - 🤝 Proven experience in leadership roles.
 - 🎯 Basic proficiency in Jira for efficient project management.
