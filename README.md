@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Estefania <img src="https://usagif.com/wp-content/uploads/gifs/dancing-cat-26.gif.webp" width="50">
 
-I'm from Colombia and I'm a Junior Front end Developer.
+I'm from Colombia and I'm a Junior Frontend Developer.
 
 ## About Me
 - 💻 I'm currently diving into advanced CSS and exploring JavaScript with React.
