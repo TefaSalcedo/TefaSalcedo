@@ -1,35 +1,69 @@
-# Hello there! 👋 I'm Estefania <img src="https://usagif.com/wp-content/uploads/gifs/dancing-cat-26.gif.webp" width="50">
+# 👋 Hello! I'm Estefanía
 
-I'm from Colombia and I'm a Junior Frontend Developer.
+I'm a **Frontend Developer from Colombia** with a background in **Civil Engineering**. I’m passionate about building interactive, accessible, and purposeful web applications — and I'm currently on a journey to become a Full Stack Developer.
 
-## About Me
-- 💻 I'm currently diving into advanced CSS and exploring JavaScript with React.
-- 🌱 I'm enthusiastic about learning more about these technologies and how they can be leveraged to craft beautiful and interactive web applications.
-- 🐍 Basic knowledge of Python for versatile problem-solving.
-- 🏗️ As a **Civil Engineer**, I have a strong foundation in analytical thinking and problem-solving, which I apply to both engineering and software development projects.
-- 📊 Advanced skills in **Excel**, with experience in data analysis, automation, and process optimization, which complement my technical and development skills.
+---
 
+## 🚀 What I'm Working On
 
-## Connect with Me
+- Deepening my knowledge of **React** and **JavaScript**
+- Exploring **AI for developers**
+- Strengthening backend skills with **Node.js** and **FastAPI**
+- Building fullstack projects to support small businesses and solve real-world problems
+
+---
+
+## 💡 About Me
+
+- 👷‍♀️ Civil Engineer turned Developer — trained in structured thinking and systems design
+- 📊 Skilled in **Excel automation** and **data analysis**, often bridging the gap between spreadsheets and code
+- 🌎 Self-taught in English through online resources, YouTube, and endless curiosity
+- 📖 Passionate about learning in public and helping others grow too
+
+---
+
+## 🛠️ My Current Stack
+
+- CSS (Advanced)
+- JavaScript (ES6+)
+- React
+- Git & GitHub
+- Python (Basics)
+- FastAPI (Learning)
+- MongoDB
+- AI tools (Experimenting)
+
+---
+
+## 📚 Soft Skills & Tools
+
+- 🤝 Strong teamwork and communication
+- 🧩 Analytical problem-solving
+- 🛠️ Familiar with **Jira**, Notion & Agile workflows
+- 📈 Focused on process optimization and automation
+
+---
+
+## 🌍 Languages
+
+- Spanish — Native  
+- English — B2 (Self-taught)  
+- Portuguese — Basic  
+- French — Basic  
+
+---
+
+## 🤝 Let's Connect
+
 - 🌐 [LinkedIn](https://www.linkedin.com/in/estefaniasalcedocamacho/) 
 - 📧 [Gmail](mailto:stefa.dtbu@gmail.com)
 - 📝 [Blog](https://www.notion.so/becomethatcodegirl/e0d3802592444bebbf1d455678232b40?v=967a65e5aa25484a82533e93e59811ad)
 
-## My Skills
-
-- 👩‍💻 **HTML** - 95%
-- 🎨 **CSS** - 70%
-- 🚀 **JavaScript** - 80%
-- 🔄 **GIT** - 85%
-- ⚛️ **React** - 70%
-- 🐍 **Python** - 40%
-- 🤖 **AI** - Currently learning
-- 🤝 **Strong leadership and teamwork skills** (Completed a soft skills course at university).
-- 🎯 **Basic proficiency in Jira for project management.**
+---
 
 
-## Language Skills 🌍
-- 🌟🌟🌟🌟🌟 Spanish (native) 
-- 🌟🌟🌟🌟 English (Approximately B2) 
-- 🌟 Basic proficiency in Portuguese and French
+Thanks for stopping by! ✨
+
+
+
 
