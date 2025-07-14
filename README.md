@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Estefanía
+# 👋 Hi! I'm Estefanía
 
 I'm a **Frontend Developer from Colombia** with a background in **Civil Engineering**. I’m passionate about building interactive, accessible, and purposeful web applications — and I'm currently on a journey to become a Full Stack Developer.
 
