@@ -6,7 +6,7 @@ I'm a **Frontend Developer from Colombia** with a background in **Civil Engineer
 
 ## 🚀 What I'm Working On
 
-- Deepening my knowledge of **React** and **JavaScript**
+- Deepening my knowledge of **React** and **Next.js**
 - Exploring **AI for developers**
 - Strengthening backend skills with **Node.js** and **FastAPI**
 - Building fullstack projects to support small businesses and solve real-world problems
